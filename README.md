@@ -11,5 +11,6 @@ This is meant to just collect my thoughts and ideas, this is not the indication 
 - [ ] Cooking
 - [ ] Fishing
 - [ ] Medicine
+- [ ] Druidcraft
 - [ ] Construction
 - [ ] Arts & Culture
